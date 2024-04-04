@@ -20,3 +20,9 @@ To contribute to this project, please DM [@jonodev](https://discordapp.com/users
 
 - [@jono-png](https://github.com/jono-png)
 - [@astralisdev](https://github.com/astralisdev)
+
+## Donations
+
+Donations are appreciated but not obligatory. They help to keep up the free work. You can donate using Solana to the address below:
+
+[jono5QAD6fcNDLAtT78NZ7xFhriDmViPXNzk9jVVn3G](solana:jono5QAD6fcNDLAtT78NZ7xFhriDmViPXNzk9jVVn3G)
