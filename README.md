@@ -11,6 +11,7 @@
 | Rimowa      | [Rimowa-Instore](Rimowa/Rimowa-Instore.md) |
 | Solebox     | [FE-loaded-products](Solebox/FE-loaded-products.md) |
 | Swatch      | [Swatch-Instore](Swatch/Swatch-Instore.md) |
+| Euronics    | [Euronics-Instore](Euronics/Euronics-Instore.md) |
 
 ## How to Contribute
 
