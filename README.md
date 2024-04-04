@@ -12,6 +12,7 @@
 | Solebox     | [FE-loaded-products](Solebox/FE-loaded-products.md) |
 | Swatch      | [Swatch-Instore](Swatch/Swatch-Instore.md) |
 | Euronics    | [Euronics-Instore](Euronics/Euronics-Instore.md) |
+| GAME UK     | [GAMEUK-Instore](GAME%UK/GAMEUK-Instore.md) |
 
 ## How to Contribute
 
