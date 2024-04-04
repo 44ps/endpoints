@@ -23,6 +23,7 @@ To contribute to this project, please DM [@jonodev](https://discordapp.com/users
 
 - [@jono-png](https://github.com/jono-png)
 - [@astralisdev](https://github.com/astralisdev)
+- [@matismrd](https://github.com/matismrd)
 
 ## Donations
 
