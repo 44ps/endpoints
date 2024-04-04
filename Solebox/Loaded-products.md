@@ -1,6 +1,6 @@
-## Check Solebox FE Loaded Products
+## Check Solebox Loaded Products
 
-To check the details of Solebox FE loaded products, you can use the following API endpoint:
+To check the details of Solebox loaded products, you can use the following API endpoint:
 ```
 https://www.solebox.com/dw/shop/v19_5/products/{PID}?client_id=37e982e8-005d-43e8-8c71-41c659b38a8c&c_app=true&locale=en-DE&expand=images,prices,availability,variations
 ```
