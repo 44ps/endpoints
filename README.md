@@ -8,7 +8,7 @@
 | Fendi       | [Fendi-Instore](Fendi/Fendi-Instore.md) |
 | Footshop    | [Stock-API](Footshop/Stock-API.md) |
 | Kickz       | [Instore-PID-checker](Kickz/Instore-PID-checker.md) |
-| Rimova      | [Rimova-Instore](Rimova/Rimova-Instore.md) |
+| Rimowa      | [Rimowa-Instore](Rimowa/Rimowa-Instore.md) |
 | Solebox     | [FE-loaded-products](Solebox/FE-loaded-products.md) |
 | Swatch      | [Swatch-Instore](Swatch/Swatch-Instore.md) |
 
