@@ -31,3 +31,4 @@ To check the in-store stock of the `SO28Z700` watch at the store with ID `R01203
 ```
 https://www.swatch.com/on/demandware.store/Sites-swarp-EU-Site/it_IT/InStorePickup-Store?sid=R012039&pid=SO28Z700
 ```
+ 
