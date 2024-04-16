@@ -13,6 +13,8 @@
 | Euronics    | [Euronics-Instore](Euronics/Euronics-Instore.md) |
 | GAME UK     | [GAMEUK-Instore](GameUK/GAMEUK-Instore.md) |
 | Snipes      | [Loaded-products](Snipes/Loaded-products.md) |
+| Nike        | [Deeplinks]](Nike/Deeplinks.md) |
+| Prodirect   | [ReleaseScraper](Prodirect/ReleaseScraper.md) |
 
 ## How to Contribute
 
@@ -20,9 +22,10 @@ To contribute to this project, please DM [@jonodev](https://discordapp.com/users
 
 ## Contributors
 
-- [@jono-png](https://github.com/jono-png)
-- [@astralisdev](https://github.com/astralisdev)
-- [@matismrd](https://github.com/matismrd)
+[@jono-png](https://github.com/jono-png) <br>
+[@astralisdev](https://github.com/astralisdev) <br>
+[@matismrd](https://github.com/matismrd) <br>
+[@prizzledev](https://github.com/prizzledev) <br>
 
 ## Donations
 
