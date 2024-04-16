@@ -13,7 +13,7 @@
 | Euronics    | [Euronics-Instore](Euronics/Euronics-Instore.md) |
 | GAME UK     | [GAMEUK-Instore](GameUK/GAMEUK-Instore.md) |
 | Snipes      | [Loaded-products](Snipes/Loaded-products.md) |
-| Nike        | [Deeplinks]](Nike/Deeplinks.md) |
+| Nike        | [Deeplinks](Nike/Deeplinks.md) |
 | Prodirect   | [ReleaseScraper](Prodirect/ReleaseScraper.md) |
 
 ## How to Contribute
