@@ -19,8 +19,12 @@ The Prodirect API endpoint is used to fetch new sports product releases. The end
   - `store`: The specific store's catalog (e.g., 'sportengb' for English sports goods, 'soccerengb' for soccer products).
   - `searchTerm`: Keywords to filter the search (e.g., 'dunk', 'jordan', 'new+balance').
 
-## Python Script Example
+## Example Script
 
+### GO
+https://github.com/prizzledev/prodirect-releases
+
+### Python
 Below is a Python script that demonstrates how to use the endpoint to fetch and display product information.
 
 ```python
