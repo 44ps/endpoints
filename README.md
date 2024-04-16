@@ -27,9 +27,10 @@ To contribute to this project, please DM [@jonodev](https://discordapp.com/users
 [@astralisdev](https://github.com/astralisdev) <br>
 [@matismrd](https://github.com/matismrd) <br>
 [@prizzledev](https://github.com/prizzledev) <br>
+[@lite0n](https://github.com/lite0n) <br>
 
 ## Donations
 
-Donations are appreciated but not obligatory. They help to keep up the free work. You can donate using Solana to the address below:
+Donations are appreciated but not obligatory. Everything here is free to use! Donations help to keep up the free work. You can donate using Solana to the address below:
 
 [jono5QAD6fcNDLAtT78NZ7xFhriDmViPXNzk9jVVn3G](solana:jono5QAD6fcNDLAtT78NZ7xFhriDmViPXNzk9jVVn3G)
