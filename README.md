@@ -4,17 +4,18 @@
 
 | Store Name  | Documentation |
 |-------------|---------------|
+| AWLAB       | [AWLAB-Instore](AWLAB/AWLAB-Instore.md) |
 | EndClothing | [All-Raffles](EndClothing/All-Raffles.md) |
+| Euronics    | [Euronics-Instore](Euronics/Euronics-Instore.md) |
 | Fendi       | [Fendi-Instore](Fendi/Fendi-Instore.md) |
 | Footshop    | [Stock-API](Footshop/Stock-API.md) |
-| Kickz       | [Instore-PID-checker](Kickz/Instore-PID-checker.md) |
-| Rimowa      | [Rimowa-Instore](Rimowa/Rimowa-Instore.md) |
-| Solebox     | [Loaded-products](Solebox/Loaded-products.md) |
-| Euronics    | [Euronics-Instore](Euronics/Euronics-Instore.md) |
 | GAME UK     | [GAMEUK-Instore](GameUK/GAMEUK-Instore.md) |
-| Snipes      | [Loaded-products](Snipes/Loaded-products.md) |
+| Kickz       | [Instore-PID-checker](Kickz/Instore-PID-checker.md) |
 | Nike        | [Deeplinks](Nike/Deeplinks.md) |
 | Prodirect   | [ReleaseScraper](Prodirect/ReleaseScraper.md) |
+| Rimowa      | [Rimowa-Instore](Rimowa/Rimowa-Instore.md) |
+| Snipes      | [Loaded-products](Snipes/Loaded-products.md) |
+| Solebox     | [Loaded-products](Solebox/Loaded-products.md) |
 
 ## How to Contribute
 
