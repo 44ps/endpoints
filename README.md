@@ -34,3 +34,13 @@ To contribute to this project, please DM [@jonodev](https://discordapp.com/users
 Donations are appreciated but not obligatory. Everything here is free to use! Donations help to keep up the free work. You can donate using Solana to the address below:
 
 [jono5QAD6fcNDLAtT78NZ7xFhriDmViPXNzk9jVVn3G](solana:jono5QAD6fcNDLAtT78NZ7xFhriDmViPXNzk9jVVn3G)
+
+## Star History
+
+<a href="https://star-history.com/#jono-png/endpoints&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jono-png/endpoints&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jono-png/endpoints&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jono-png/endpoints&type=Date" />
+ </picture>
+</a>
