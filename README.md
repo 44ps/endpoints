@@ -37,10 +37,10 @@ Donations are appreciated but not obligatory. Everything here is free to use! Do
 
 ## Star History
 
-<a href="https://star-history.com/#jono-png/endpoints&Date">
+<a href="https://star-history.com/#44ps/endpoints&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jono-png/endpoints&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jono-png/endpoints&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jono-png/endpoints&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=44ps/endpoints&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=44ps/endpoints&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=44ps/endpoints&type=Date" />
  </picture>
 </a>
